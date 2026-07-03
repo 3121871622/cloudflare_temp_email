@@ -1,3 +1,4 @@
+- run: pnpm approve-builds core-js-pure esbuild sharp worker-dom
 name: Deploy Backend
 
 on:
